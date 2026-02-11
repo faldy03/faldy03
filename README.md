@@ -1,18 +1,69 @@
-# Halo semua! 
+<h1 align="left">Hey 👋 Im, Muhammad Fauzan Naufaldy</h1>
 
-Perkenalkan nama saya **Muhammad Fauzan Naufaldy**.\
+###
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/faldy03).\
+<p align="left">🎓 Informatics Graduate  <br>💻 Web Developer | Laravel Enthusiast  <br>📍 Indonesia</p>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
+###
 
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
+<h2 align="left">🚀 About me</h2>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-fauzan-naufaldy-ba1308295/)ku ya.
+###
 
-<p align="left">
-<a href="https://github.com/gilangadhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faldy03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faldy03&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<p align="left">I am an Informatics graduate with an interest in web application development, particularly using Laravel and modern technologies like Tailwind CSS.<br>I have experience building web-based information systems, including laboratory management systems and loan systems based on the Laravel framework.<br><br>I am accustomed to working in a structured manner using development methods like RAD and understand system design concepts using UML.</p>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/muhammad-fauzan-naufaldy-ba1308295/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com//Xeezanxee_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="whatsapp logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/faldy03/faldy03/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faldy03/faldy03/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faldy03/faldy03/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faldy03/faldy03/output/pacman-contribution-graph.svg">
+</picture>
+
+###
