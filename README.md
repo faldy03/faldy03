@@ -16,8 +16,6 @@
 
 <h2 align="left">Tech Stack</h2>
 
-###
-
 <br clear="both">
 
 <div align="left">
@@ -54,11 +52,19 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="whatsapp logo"  />
 </div>
 
-###
+#### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=faldy03&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=faldy03&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faldy03&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+#### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=faldy03&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=faldy03&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <img src="https://raw.githubusercontent.com/faldy03/faldy03/output/snake.svg" alt="Snake animation" />
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faldy03/faldy03/output/pacman-contribution-graph-dark.svg">
